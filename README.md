@@ -16,5 +16,4 @@ docker-compose up -d --scale node-service=3
 Observations
 After scaling, accessing http://localhost:8080/api/stats should yield responses from different instances.
 
-Contributing
-To contribute to this project, please fork the repository and submit a pull request with your proposed changes.
+
